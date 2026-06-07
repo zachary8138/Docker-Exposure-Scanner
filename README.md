@@ -102,3 +102,7 @@ docker-scanner/
 ## Authorization
 
 Only scan networks and hosts you are **explicitly authorized** to test. Exposed Docker APIs are a serious security risk; this tool is intended for defensive auditing and remediation.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 — see the [LICENSE](LICENSE) file for details.
