@@ -1,6 +1,6 @@
 # Docker Exposure Scanner
 
-Very fast, read-only checks for exposed Docker API (port **2375**) and Docker registry (port **5000**) endpoints. Optionally inspects an open Docker API for container metadata and scans container environment variables against common secret patterns. Be safe out there !
+Very fast, read only, checks for exposed Docker API (port **2375**) and Docker registry (port **5000**) endpoints. Optionally inspects an open Docker API for container metadata and scans container environment variables against common secret patterns. Be safe out there !
 
 ## Requirements
 
